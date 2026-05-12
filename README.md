@@ -1,4 +1,4 @@
-100 Days of Python challenge / چالش ۱۰۰ روز با پایتون
+100 Days of Python challenge / چالش ۱۰۰ روز پایتون
 
 English:
 100 Days of Python is a challenge to build 100 projects in 100 days.
