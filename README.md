@@ -31,4 +31,5 @@ Special thanks to Dr. Angela Yu for this fantastic course.
 از دکتر آنجلا یو بابت این دوره‌ی عالی خیلی ممنونم.
 
 #100DaysOfPython 
+
 #100DaysOfCode
